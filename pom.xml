@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.github.pramodkuth</groupId>
 	<artifactId>open-policy-ai-advisor-spring-boot-starter</artifactId>
-	<version>0.0.1-M1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>open-policy-ai-advisor-spring-boot-starter</name>
 	<description>
 		Open Policy AI Advisor is a Spring Boot starter that integrates Open Policy Agent (OPA) for policy evaluation and enforcement in your applications. This starter simplifies the process of adding open policy-based advisors capabilities to your AI chat client.
@@ -25,7 +25,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/pramodkuth/open-policy-ai-advisor-spring-boot-starter.git</connection>
 		<developerConnection>scm:git:https://github.com/pramodkuth/open-policy-ai-advisor-spring-boot-starter.git</developerConnection>
-		<tag>v0.0.1-M1</tag>
+		<tag>HEAD</tag>
 		<url>https://github.com/pramodkuth/open-policy-ai-advisor-spring-boot-starter</url>
 	</scm>
 	<properties>
